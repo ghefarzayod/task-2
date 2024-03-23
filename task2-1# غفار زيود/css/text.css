@@ -1,0 +1,109 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav {
+    background-color: #f44236;
+    border-bottom: 2px solid black;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav ul li {
+    padding: 20px;
+color: white;
+}
+
+#l {
+    background-color: white;
+    color: black;
+}
+
+.one {
+    background-color: #f44236;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one div {
+    display: flex;
+    margin-bottom: 300px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    color: white;
+    margin-top: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#o {
+    background-color: black;
+    color: white;
+    margin: 40px;
+}
+#a2{
+ margin:15px 0px ;   
+}
+ .tow{
+  height: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 0px 150px;
+}
+
+#f{
+   font-size: 19px; 
+   margin:25px 0px
+ }
+#p{
+    font-size: 135px;
+}
+.three{
+ height: 500px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 0px 150px;
+ background-color: #f1f1f1;
+}
+#n{
+  font-size: 135px;  
+}
+#q{
+    font-size: 19px; 
+    margin:25px 0px  
+}
+.four{
+height: 150px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color:#666666 ;
+color: white;
+}
+.foteer{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foteer ul{
+ list-style: none;
+ display: flex;   
+margin-top: 10px;
+}
+.foteer ul li{
+ margin: 0px 5px;   
+}
+#s{
+ color: #666666;
+    margin: 25px 0px ; 
+}
